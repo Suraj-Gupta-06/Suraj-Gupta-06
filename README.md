@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4E8DFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Suraj+Gupta!;Frontend+Developer+%7C+AI%2FML+Learner;Full-Stack+Engineer+%7C+Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4E8DFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Suraj+Gupta!;Frontend+Developer+%7C+AI%2FML+Learner;Full-Stack+Engineer;Game+Dev+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
@@ -67,9 +67,9 @@
 
 ## 📬 Connect With Me  
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@GearGame" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://instagram.com/NeuralFrames" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/suraj-gupta-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@GearGame06" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://instagram.com/suraj_gupta__06" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
