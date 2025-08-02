@@ -60,8 +60,10 @@
 
 ---
 
-## 🐍 Snake Contribution Graph
-<img src="https://github.com/Suraj-Gupta-06/Suraj-Gupta-06/blob/output/github-contribution-grid-snake.svg" />
+## 🐍 Snake Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suraj-Gupta-06/Suraj-Gupta-06/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
