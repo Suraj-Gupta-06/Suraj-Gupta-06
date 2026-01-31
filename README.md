@@ -38,12 +38,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-Gupta-06&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Gupta-06&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-Gupta-06&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Gupta-06&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Gupta-06&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Suraj-Gupta-06&theme=radical" />
 </p>
 
 ---
