@@ -29,7 +29,8 @@
 | 🔗 Project | 🛠 Tech Stack | 📖 Description |
 |------------|--------------|----------------|
 | 🎨 **DrawPin** | React Native | A task management app for drawing requests with dark/light mode |
-| 📅 **Event Planner API** | Node.js + MongoDB | A backend API for event planning & management |
+| 🎯 **PresencePro** | Flask, OpenCV, dlib, PostgreSQL | A real-time facial recognition attendance management system with AI-powered face recognition, analytics dashboard, JWT authentication, attendance tracking, and admin controls. |
+| 🗳️ **ElectionConnect 2026** | FastAPI, Python, Vite, Tailwind CSS | A global civic-tech platform supporting 75+ countries with voter authentication, polling station finder, AI chatbot, election timeline, offline PWA support, and real-time election information. |
 | 💧 **Urban Water Quality Monitoring** | Angular + Spring Boot + PostgreSQL | A real-time water quality monitoring platform |
 | ✅ **React To-Do App** | React.js + API | A CRUD-based to-do app with persistent storage |
 | 🌐 **Portfolio Website** | HTML/CSS/JS | My personal portfolio showcasing my projects |
