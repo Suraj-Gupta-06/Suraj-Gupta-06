@@ -4,16 +4,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4E8DFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Suraj+Gupta!;Frontend+Developer+💻;Full-Stack+Engineer+🚀;AI/ML+Learner+🤖;Game+Dev+Enthusiast+🎮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4E8DFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Suraj+Gupta!;Backend+Developer+🚀;Frontend+Developer+💻;Full-Stack+Engineer+🚀;AI/ML+Learner+🤖;Game+Dev+Enthusiast+🎮" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🚀 About Me
-🎓 **3rd Year IT Engineering Student**  
-💻 Passionate about **Frontend Development, AI/ML & Full-Stack Projects**  
+🎓 **Final Year B.E IT Engineering Student**  
+💻 Passionate about **Backend Development, Frontend Development, AI/ML & Full-Stack Projects**  
 🔭 Currently working on **React, Angular, Spring Boot, Node.js, MongoDB, PostgreSQL**  
-🎮 Exploring **Game Development (BGMI-style)**  
+🎮 Exploring **Game Development**  
 📹 Running **GearGame – AI Gaming YouTube Channel**
 
 ---
