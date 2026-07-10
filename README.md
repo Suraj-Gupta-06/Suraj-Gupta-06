@@ -28,7 +28,7 @@
 ## 📌 Featured Projects  
 | 🔗 Project | 🛠 Tech Stack | 📖 Description |
 |------------|--------------|----------------|
-| 🎨 **DrawPin** | React Native | A task management app for drawing requests with dark/light mode |
+| 🎨 **DrawPin** | React 19 + Typescript, Spring-boot, PostgreSQL | A full-stack marketplace for artists and customers featuring authentication, portfolio management, real-time chat, order tracking, secure payments, location-based creator discovery, and a Pinterest-style artwork feed. |
 | 🎯 **PresencePro** | Flask, OpenCV, dlib, PostgreSQL | A real-time facial recognition attendance management system with AI-powered face recognition, analytics dashboard, JWT authentication, attendance tracking, and admin controls. |
 | 🗳️ **ElectionConnect 2026** | FastAPI, Python, Vite, Tailwind CSS | A global civic-tech platform supporting 75+ countries with voter authentication, polling station finder, AI chatbot, election timeline, offline PWA support, and real-time election information. |
 | 💧 **Urban Water Quality Monitoring** | Angular + Spring Boot + PostgreSQL | A real-time water quality monitoring platform |
